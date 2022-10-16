@@ -1,0 +1,17 @@
+
+body{
+    background-image: url(resume%201.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 15px;
+}
+.personal{
+    font-size: 20px;
+}
+h1{
+font-size: 15px;
+}
+.img{
+  border-radius: 50%;
+}
+
